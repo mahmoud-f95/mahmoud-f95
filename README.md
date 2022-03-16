@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mahmoud-f95
 - 👀 I’m interested in Data Analysis & Data Science
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me mahmoudfahmy640@gmail.com
 
 <!---
