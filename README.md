@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Machine Learning for Data Science
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me mahmoudfahmy640@gmail.com 
-- 📫 How to reach me linkedin.com/in/mahmoud-fahmy-067a5a138
+                      LinkedIn:  [Mahmoud Fahmy](linkedin.com/in/mahmoud-fahmy-067a5a138)
 
 <!---
 mahmoud-f95/mahmoud-f95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
