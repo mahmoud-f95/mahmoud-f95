@@ -3,10 +3,8 @@ I'm Mahmoud, A forme chemical engineer who became passionate about data and data
 Here I share my works,my learning tutorials, blog posts and more.. 
 
 ## 📫: How to reach me 
-:e-mail: mahmoudfahmy640@gmail.com \ 
+:e-mail: mahmoudfahmy640@gmail.com \n
 linkedin: [Mahmoud Fahmy](linkedin.com/in/mahmoud-fahmy-067a5a138) \
 twitter: @mahmoud_mf95 \
 
-<!---
 
---->
