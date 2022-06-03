@@ -5,6 +5,6 @@ Here I share my works,my learning tutorials, blog posts and more..
 ## 📫: How to reach me 
 :e-mail: mahmoudfahmy640@gmail.com\
 linkedin: [Mahmoud Fahmy](linkedin.com/in/mahmoud-fahmy-067a5a138) \
-twitter: https://twitter.com/mahmoud_mf95
+twitter: twitter.com/mahmoud_mf95
 
 
