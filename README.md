@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mahmoud-f95
+-## :wave: Hi there!
 - 👀 I’m interested in Data Analytics & Data Science
 - 🌱 I’m currently learning Machine Learning for Data Science
 - 💞️ I’m looking to collaborate on data science projects
