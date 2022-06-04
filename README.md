@@ -8,5 +8,6 @@ twitter: twitter.com/mahmoud_mf95
 
 ## 💼 Case Studies
 * [Personal Key Indicators of Heart Disease Analysis and Visualization](https://github.com/mahmoud-f95/Personal-Key-Indicators-of-Heart-Disease-Analysis-and-Visualization)
+* [International Football historical data analysis](https://github.com/mahmoud-f95/International-Football-historical-data-analysis)
 
 
