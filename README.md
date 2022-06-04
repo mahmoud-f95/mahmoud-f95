@@ -4,7 +4,8 @@ I'm Mahmoud, A former chemical engineer who became passionate about data and dat
 ## 📫: How to reach me 
 :e-mail: mahmoudfahmy640@gmail.com\
 linkedin: [Mahmoud Fahmy](linkedin.com/in/mahmoud-fahmy-067a5a138) \
-twitter: twitter.com/mahmoud_mf95
+Kaggle:https://www.kaggle.com/mahmoudfahmy77 \
+twitter: https://twitter.com/mahmoud_mf95
 
 ## 💼 Case Studies
 * [Personal Key Indicators of Heart Disease Analysis and Visualization](https://github.com/mahmoud-f95/Personal-Key-Indicators-of-Heart-Disease-Analysis-and-Visualization)
