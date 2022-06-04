@@ -27,7 +27,7 @@ twitter: https://twitter.com/mahmoud_mf95
 * [English Premier League](https://public.tableau.com/views/PremierLeague_16470264979570/EPL?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## :page_facing_up: Blog Posts
-* [Removing Fuzzy duplicates using ML transformer on AWS](https://victorious-woolen-ed6.notion.site/Removing-Fuzzy-duplicates-using-ML-transformer-on-AWS-9477fe849ecb48db8940df268a37c18c)
+* [Removing fuzzy duplicates using ML transformer on AWS](https://victorious-woolen-ed6.notion.site/Removing-Fuzzy-duplicates-using-ML-transformer-on-AWS-9477fe849ecb48db8940df268a37c18c)
 
 ## :books: Tutorials
 * [kafka tutorials](https://github.com/mahmoud-f95/kafka-tutorials)
