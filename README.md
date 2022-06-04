@@ -11,5 +11,18 @@ twitter: twitter.com/mahmoud_mf95
 * [International Football historical data analysis](https://github.com/mahmoud-f95/International-Football-historical-data-analysis)
 * [Quantium Virtual Training Project](https://github.com/mahmoud-f95/Quantium-Virtual-Training-Project)
 * [NashvilleHousing Data Cleaning Using SQL](NashvilleHousing-Data-Cleaning-Using-SQL)
+* [Movie Industry Analysis](https://github.com/mahmoud-f95/Movie-Industry-Analysis)
+* [Accenture Virtual Training Project](https://github.com/mahmoud-f95/Accenture-Virtual-Training-Project)
+* [COVID-19 Data Analysis with SQL and Tableau](https://github.com/mahmoud-f95/COVID-19-Data-Analysis-with-SQL-and-Tableau)
+* [weather data analysis](https://github.com/mahmoud-f95/weather-data-analysis)
+* [Uber NYC Data Analysis](https://github.com/mahmoud-f95/Uber-NYC-Data-Analysis)
+* [Airbnb Exploratory Analysis](https://github.com/mahmoud-f95/Airbnb-Exploratory-Analysis)
+
+## :bar_chart: Tableau Dashboards
+* [Walmart Retails Dashboard](https://public.tableau.com/views/WalmartRetailsDashboard/WalmartRetailsDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
+* [COVID-19](https://public.tableau.com/views/COVID-19_16471845781770/COVID-19?:language=en-US&:display_count=n&:origin=viz_share_link)
+* [Chicago Filming Dashboard](https://public.tableau.com/shared/YHYHBYZJF?:display_count=n&:origin=viz_share_link)
+* [Accenture Virtual Training](https://public.tableau.com/views/AccentureVirtualTraining/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+* [English Premier League](https://public.tableau.com/views/PremierLeague_16470264979570/EPL?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
