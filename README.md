@@ -14,13 +14,15 @@ twitter: https://twitter.com/mahmoud_mf95
 * [Quantium Virtual Training Project](https://github.com/mahmoud-f95/Quantium-Virtual-Training-Project)
 * [NashvilleHousing Data Cleaning Using SQL](https://github.com/mahmoud-f95/NashvilleHousing-Data-Cleaning-Using-SQL)
 * [Movie Industry Analysis](https://github.com/mahmoud-f95/Movie-Industry-Analysis)
+* [Global Superstore EDA with SQL and Tableau](https://github.com/mahmoud-f95/Global_Superstore_EDA_with_SQL_and_Tableau)
 * [Accenture Virtual Training Project](https://github.com/mahmoud-f95/Accenture-Virtual-Training-Project)
 * [COVID-19 Data Analysis with SQL and Tableau](https://github.com/mahmoud-f95/COVID-19-Data-Analysis-with-SQL-and-Tableau)
 * [weather data analysis](https://github.com/mahmoud-f95/weather-data-analysis)
 * [Uber NYC Data Analysis](https://github.com/mahmoud-f95/Uber-NYC-Data-Analysis)
 * [Airbnb Exploratory Analysis](https://github.com/mahmoud-f95/Airbnb-Exploratory-Analysis)
 
-## :bar_chart: Tableau Dashboards
+## :bar_chart:Tableau Dashboards
+* [Superstore Sales Dashboard](https://public.tableau.com/app/profile/mahmoud.fahmy3177/viz/SuperstoreSalesDashboard_16547945544630/Dashboard1)
 * [Walmart Retails Dashboard](https://public.tableau.com/views/WalmartRetailsDashboard/WalmartRetailsDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 * [COVID-19](https://public.tableau.com/views/COVID-19_16471845781770/COVID-19?:language=en-US&:display_count=n&:origin=viz_share_link)
 * [Chicago Filming Dashboard](https://public.tableau.com/shared/YHYHBYZJF?:display_count=n&:origin=viz_share_link)
