@@ -30,6 +30,9 @@ twitter: https://twitter.com/mahmoud_mf95
 * [Accenture Virtual Training](https://public.tableau.com/views/AccentureVirtualTraining/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
 * [English Premier League](https://public.tableau.com/views/PremierLeague_16470264979570/EPL?:language=en-US&:display_count=n&:origin=viz_share_link)
 
+## :man_technologist: Stack
+![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Theory-Statistics-orange) ![](https://img.shields.io/badge/Theory-Mathematics-orange)
+
 ## :page_facing_up: Blog Posts
 * [Removing fuzzy duplicates using ML transformer on AWS](https://victorious-woolen-ed6.notion.site/Removing-Fuzzy-duplicates-using-ML-transformer-on-AWS-9477fe849ecb48db8940df268a37c18c)
 
