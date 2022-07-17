@@ -19,8 +19,6 @@ twitter: https://twitter.com/mahmoud_mf95
 * [Accenture Virtual Training Project](https://github.com/mahmoud-f95/Accenture-Virtual-Training-Project)
 * [COVID-19 Data Analysis with SQL and Tableau](https://github.com/mahmoud-f95/COVID-19-Data-Analysis-with-SQL-and-Tableau)
 * [weather data analysis](https://github.com/mahmoud-f95/weather-data-analysis)
-* [Uber NYC Data Analysis](https://github.com/mahmoud-f95/Uber-NYC-Data-Analysis)
-* [Airbnb Exploratory Analysis](https://github.com/mahmoud-f95/Airbnb-Exploratory-Analysis)
 
 ## :bar_chart:Tableau Dashboards
 * [Superstore Sales Dashboard](https://public.tableau.com/app/profile/mahmoud.fahmy3177/viz/SuperstoreSalesDashboard_16547945544630/Dashboard1)
