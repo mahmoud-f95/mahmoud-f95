@@ -17,7 +17,6 @@ twitter: https://twitter.com/mahmoud_mf95
 * [Movie Industry Analysis](https://github.com/mahmoud-f95/Movie-Industry-Analysis)
 * [Global Superstore EDA with SQL and Tableau](https://github.com/mahmoud-f95/Global_Superstore_EDA_with_SQL_and_Tableau)
 * [Accenture Virtual Training Project](https://github.com/mahmoud-f95/Accenture-Virtual-Training-Project)
-* [COVID-19 Data Analysis with SQL and Tableau](https://github.com/mahmoud-f95/COVID-19-Data-Analysis-with-SQL-and-Tableau)
 * [weather data analysis](https://github.com/mahmoud-f95/weather-data-analysis)
 
 ## :bar_chart:Tableau Dashboards
