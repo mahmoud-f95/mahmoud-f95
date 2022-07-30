@@ -7,7 +7,7 @@ linkedin: www.linkedin.com/in/mahmoudfahmy640 \
 Kaggle:https://www.kaggle.com/mahmoudfahmy77 \
 twitter: https://twitter.com/mahmoud_mf95
 
-## 💼 Case Studies
+## 💼 Projects
 * [Frequentist and Bayesian A/B testing](https://github.com/mahmoud-f95/Frequentist-and-Bayesian-A-B-testing)
 * [Football/Soccer Analysis](https://github.com/mahmoud-f95/Football_analysis)
 * [Personal Key Indicators of Heart Disease Analysis and Visualization](https://github.com/mahmoud-f95/Personal-Key-Indicators-of-Heart-Disease-Analysis-and-Visualization)
