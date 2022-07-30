@@ -8,6 +8,7 @@ Kaggle:https://www.kaggle.com/mahmoudfahmy77 \
 twitter: https://twitter.com/mahmoud_mf95
 
 ## 💼 Projects
+* [Machine Learning Projects](https://github.com/mahmoud-f95/Machine_Learning)
 * [Frequentist and Bayesian A/B testing](https://github.com/mahmoud-f95/Frequentist-and-Bayesian-A-B-testing)
 * [Football/Soccer Analysis](https://github.com/mahmoud-f95/Football_analysis)
 * [Personal Key Indicators of Heart Disease Analysis and Visualization](https://github.com/mahmoud-f95/Personal-Key-Indicators-of-Heart-Disease-Analysis-and-Visualization)
