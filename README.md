@@ -11,9 +11,7 @@ twitter: https://twitter.com/mahmoud_mf95
 * [Machine Learning Projects](https://github.com/mahmoud-f95/Machine_Learning)
 * [Frequentist and Bayesian A/B testing](https://github.com/mahmoud-f95/Frequentist-and-Bayesian-A-B-testing)
 * [Football/Soccer Analysis](https://github.com/mahmoud-f95/Football_analysis)
-* [Personal Key Indicators of Heart Disease Analysis and Visualization](https://github.com/mahmoud-f95/Personal-Key-Indicators-of-Heart-Disease-Analysis-and-Visualization)
 * [Quantium Virtual Training Project](https://github.com/mahmoud-f95/Quantium-Virtual-Training-Project)
-* [NashvilleHousing Data Cleaning Using SQL](https://github.com/mahmoud-f95/NashvilleHousing-Data-Cleaning-Using-SQL)
 * [Global Superstore EDA with SQL and Tableau](https://github.com/mahmoud-f95/Global_Superstore_EDA_with_SQL_and_Tableau)
 * [Accenture Virtual Training Project](https://github.com/mahmoud-f95/Accenture-Virtual-Training-Project)
 
