@@ -1,6 +1,3 @@
-<p align="center">
-  <img width="200" src="![Tehsable com-minion](https://user-images.githubusercontent.com/25424214/182198084-7cd290e8-175b-47a9-a373-22b9ef5eec61.gif)>
-</p>
 ## :wave: Hi there!
 I'm Mahmoud, A former chemical engineer who became passionate about data and data science. I'm currently a data analyst pursuing a bigger dream of becoming a data scientist. Here I share my work, my learning tutorials, blog posts and more.. 
 
