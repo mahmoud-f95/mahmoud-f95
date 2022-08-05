@@ -10,7 +10,7 @@ twitter: https://twitter.com/mahmoud_mf95
 ## 💼 Projects
 * [Machine Learning Projects](https://github.com/mahmoud-f95/Machine_Learning)
 * [Data Analysis Projects](https://github.com/mahmoud-f95/Data_Analysis_Projects)
-* [Frequentist and Bayesian A/B testing](https://github.com/mahmoud-f95/Frequentist-and-Bayesian-A-B-testing)
+* [Statistical Experiment](https://github.com/mahmoud-f95/Statistical_Experiment)
 * [Football/Soccer Analysis](https://github.com/mahmoud-f95/Football_analysis)
 * [Quantium Virtual Training Project](https://github.com/mahmoud-f95/Quantium-Virtual-Training-Project)
 * [Accenture Virtual Training Project](https://github.com/mahmoud-f95/Accenture-Virtual-Training-Project)
