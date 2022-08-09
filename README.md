@@ -1,3 +1,5 @@
+<h1 style="text-align: center;">Test</h1>
+
 <div align="center"> ## :wave: Hi there!</div>
 I'm Mahmoud, A former chemical engineer who became passionate about data and data science. I'm currently a data analyst pursuing a bigger dream of becoming a data scientist. Here I share my work, my learning tutorials, blog posts and more... 
 
