@@ -21,7 +21,7 @@ twitter: https://twitter.com/mahmoud_mf95
 * [COVID-19](https://public.tableau.com/views/COVID-19_16471845781770/COVID-19?:language=en-US&:display_count=n&:origin=viz_share_link)
 * [Chicago Filming Dashboard](https://public.tableau.com/shared/YHYHBYZJF?:display_count=n&:origin=viz_share_link)
 * [Accenture Virtual Training](https://public.tableau.com/views/AccentureVirtualTraining/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
-* [English Premier League](https://public.tableau.com/views/PremierLeague_16470264979570/EPL?:language=en-US&:display_count=n&:origin=viz_share_link)
+* [EPL player's value](https://public.tableau.com/views/PremierLeague_16470264979570/EPL?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ## :man_technologist: Stack
 ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Language-SQL-blue) ![](https://img.shields.io/badge/Theory-Mathematics-orange) ![](https://img.shields.io/badge/Theory-Statistics-orange)  ![](https://img.shields.io/badge/Theory-Machine%20Learning-orange) ![](https://img.shields.io/badge/BI-Tableau-brightgreen)
