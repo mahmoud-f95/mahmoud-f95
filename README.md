@@ -12,6 +12,7 @@ twitter: https://twitter.com/mahmoud_mf95
 * [Data Analysis Projects](https://github.com/mahmoud-f95/Data_Analysis_Projects)
 * [Statistical Experiment](https://github.com/mahmoud-f95/Statistical_Experiment)
 * [Football/Soccer Analysis](https://github.com/mahmoud-f95/Football_analysis)
+* [Internship Projects](https://github.com/mahmoud-f95/Internships_Projects)
 * [Quantium Virtual Training Project](https://github.com/mahmoud-f95/Quantium-Virtual-Training-Project)
 * [Accenture Virtual Training Project](https://github.com/mahmoud-f95/Accenture-Virtual-Training-Project)
 
