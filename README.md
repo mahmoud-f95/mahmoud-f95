@@ -2,7 +2,7 @@
 I'm Mahmoud, A former chemical engineer who became passionate about data and data science. Here I share my work, my learning tutorials, blog posts and more... 
 
 ## 📫: How to reach me 
-:e-mail: mahmoudfahmy640@gmail.com\
+e-mail: mahmoudfahmy640@gmail.com\
 linkedin: www.linkedin.com/in/mahmoudfahmy640 \
 Kaggle:https://www.kaggle.com/mahmoudfahmy77 \
 twitter: https://twitter.com/mahmoud_mf95
