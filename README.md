@@ -28,6 +28,7 @@ twitter: https://twitter.com/mahmoud_mf95
 
 ## :page_facing_up: Blog Posts
 * [Removing fuzzy duplicates using ML transformer on AWS](https://victorious-woolen-ed6.notion.site/Removing-Fuzzy-duplicates-using-ML-transformer-on-AWS-9477fe849ecb48db8940df268a37c18c)
+* [YouTube Data Analysis on AWS](https://www.notion.so/YouTube-Data-Analysis-on-AWS-bafa06920ea14fbaac55d44575302193)
 
 ## :books: Tutorials
 * [Machine Learning](https://github.com/mahmoud-f95/Machine_Learning_Tutorials)
