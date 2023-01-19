@@ -1,5 +1,5 @@
 <h2 style="text-align: center;"> :wave: Hi there!</h2>
-I'm Mahmoud, A former chemical engineer who became passionate about data. Here I share my work, my learning tutorials, blog posts and more... 
+I'm Mahmoud, A Data Engineer and a former Chemical Engineer. Here I share my work, my learning, blog posts and more... 
 
 ## 📫: How to reach me 
 e-mail: mahmoudfahmy640@gmail.com\
