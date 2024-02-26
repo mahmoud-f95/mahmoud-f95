@@ -20,14 +20,16 @@ twitter: https://twitter.com/mahmoud_mf95
 * [DataCamp Projects](https://github.com/mahmoud-f95/DataCamp_Projects)
 * [kafka tutorials](https://github.com/mahmoud-f95/kafka-tutorials)
 
+## :page_facing_up: Blog Posts
+* [Removing fuzzy duplicates using ML transformer on AWS](https://victorious-woolen-ed6.notion.site/Removing-Fuzzy-duplicates-using-ML-transformer-on-AWS-9477fe849ecb48db8940df268a37c18c)
+* [YouTube Data Analysis on AWS](https://www.notion.so/YouTube-Data-Analysis-on-AWS-bafa06920ea14fbaac55d44575302193)
+
 
 
 ## :man_technologist: Stack
 ![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Language-SQL-blue) ![](https://img.shields.io/badge/Theory-Mathematics-orange) ![](https://img.shields.io/badge/Theory-Statistics-orange)  ![](https://img.shields.io/badge/Theory-Machine%20Learning-orange) ![](https://img.shields.io/badge/BI-Tableau-brightgreen)
 
-## :page_facing_up: Blog Posts
-* [Removing fuzzy duplicates using ML transformer on AWS](https://victorious-woolen-ed6.notion.site/Removing-Fuzzy-duplicates-using-ML-transformer-on-AWS-9477fe849ecb48db8940df268a37c18c)
-* [YouTube Data Analysis on AWS](https://www.notion.so/YouTube-Data-Analysis-on-AWS-bafa06920ea14fbaac55d44575302193)
+
 
 
 
