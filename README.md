@@ -4,7 +4,7 @@ I'm Mahmoud, A Data Engineer. Here I share my work, my learning, blog posts and 
 ## 📫: How to reach me 
 e-mail: mahmoudfahmy640@gmail.com\
 linkedin: www.linkedin.com/in/mahmoudfahmy640 \
-Kaggle:https://www.kaggle.com/mahmoudfahmy77 \
+Kaggle:https://www.kaggle.com/mahmoudfahmy77 
 
 ## 💼 Projects
 * [Data Engineering Projects](https://github.com/mahmoud-f95/Data_Engineering_Projects)
