@@ -27,7 +27,7 @@ twitter: https://twitter.com/mahmoud_mf95
 
 
 ## :man_technologist: Stack
-![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Language-SQL-blue)  ![](https://img.shields.io/badge/Cloud-AWS-red)  ![](https://img.shields.io/badge/BigData-Airflow-yellow) (https://img.shields.io/badge/BigData-Kafka-yellow) ![](https://img.shields.io/badge/Theory-Mathematics-orange) ![](https://img.shields.io/badge/Theory-Statistics-orange)  ![](https://img.shields.io/badge/Theory-Machine%20Learning-orange) ![](https://img.shields.io/badge/BI-Tableau-brightgreen)
+![](https://img.shields.io/badge/Language-Python-blue) ![](https://img.shields.io/badge/Language-SQL-blue)  ![](https://img.shields.io/badge/Cloud-AWS-red)  ![](https://img.shields.io/badge/BigData-Airflow-yellow) ![](https://img.shields.io/badge/BigData-Kafka-yellow) ![](https://img.shields.io/badge/Theory-Mathematics-orange) ![](https://img.shields.io/badge/Theory-Statistics-orange)  ![](https://img.shields.io/badge/Theory-Machine%20Learning-orange) ![](https://img.shields.io/badge/BI-Tableau-brightgreen)
 
 
 
