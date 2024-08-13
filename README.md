@@ -7,6 +7,7 @@ linkedin: www.linkedin.com/in/mahmoudfahmy640
 
 ## 💼 Projects
 * [Data Engineering Projects](https://github.com/mahmoud-f95/Data_Engineering_Projects)
+* [Generative_AI Projects](https://github.com/mahmoud-f95/Generative-AI)
 * [Machine Learning Projects](https://github.com/mahmoud-f95/Machine_Learning)
 * [Data Analysis Projects](https://github.com/mahmoud-f95/Data_Analysis_Projects)
 * [Statistical Experiments](https://github.com/mahmoud-f95/Statistical_Experiment)
